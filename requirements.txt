@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+scipy
+pandas
+openpyxl
+python-multipart
+pdfplumber
+pytesseract
+Pillow
+python-dotenv
+google-generativeai
